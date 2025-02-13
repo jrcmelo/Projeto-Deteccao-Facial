@@ -1,4 +1,4 @@
-## 🐱 Projeto: Deteccao Facial
+## 🐱 Projeto: Detecção Facial
 
 <br>
 
