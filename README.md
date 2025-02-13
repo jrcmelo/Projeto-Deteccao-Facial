@@ -1,4 +1,4 @@
-## 🐱 Titulo
+## 🐱 Projeto: Deteccao Facial
 
 <br>
 
@@ -18,15 +18,20 @@ Este projeto utiliza a biblioteca OpenCV para detectar gatos e a biblioteca cvzo
 
 ## 🛠️ Executando projeto
 
-As bibliotecas necessárias estão listadas no arquivo requirements.txt. Para instalá-las, use:
+Para executar este projeto localmente em sua máquina, siga estas etapas:
 
-```bash
-pip install -r requirements.txt
-```
+- Certifique-se de ter o Node.js instalado em sua máquina.
+
+- Clone este repositório em sua máquina local usando o comando `git clone`.
+
+- Instale as dependências do projeto executando `pip install opencv-python` no diretório do projeto.
 
 <br>
 
 ## ⚙ Tecnologias Utilizadas
+![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black)
+![Static Badge](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=black)
+
 
 
 <br>
