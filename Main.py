@@ -26,7 +26,7 @@ while True:
     # Detecta rostos humanos
     frame, bboxes = detector.findFaces(frame, draw=True)
 
-    cv2.imshow('Detecção de Gatos e Rostos Humanos', frame)
+    cv2.imshow('Deteccao', frame)
 
     if cv2.waitKey(1) == 27:  # Pressione 'Esc' para sair
         break
